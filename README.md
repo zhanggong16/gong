@@ -23,7 +23,7 @@ confirm(y,n): y
 cd /tmp/cto/
 source venv/bin/activate
 pip install -r requirement.txt
-启动Flask
+#启动Flask
 honcho start
 09:26:10 system   | server.1 started (pid=129951)
 09:26:10 server.1 |  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
