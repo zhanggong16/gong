@@ -34,7 +34,8 @@ honcho start
 至此Flask项目已经成功启动。
 
 ## 三、验证
-通过浏览器访问http://localhost:5000，显示Hello, World!
+通过浏览器访问http://localhost:5000
+显示Hello, World!
 
 ## 四、目录
 
